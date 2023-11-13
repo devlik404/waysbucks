@@ -1,0 +1,71 @@
+/* styles.css */
+.color-1 {
+    color: #BD0707;
+    font-family: Avenir;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.custom-text {
+    color: #BD0707;
+    font-family: Avenir;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.Button {
+    background: #BD0707;
+    width: 100%;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    color: aliceblue;
+}
+.form-margin{
+    margin-top: 40px !important;
+    margin-bottom: 40px;
+}
+.color-text{
+    color:  #BD0707;
+}
+.flex-class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.flex-beetween {
+    display: flex;
+    justify-content: space-between;
+    align-items: "center";
+}
+.flex-center{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: 5px;
+
+}
+.text-xs{
+    color:  #BD0707;
+    font-size: 14px;
+    font-weight: 400;
+}
+.text-md{
+    color:  #BD0707;
+    font-size: 14px;
+    font-weight: 800;
+}
+.Text-jumbo{
+    color: #000;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: 5px;
+}

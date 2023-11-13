@@ -1,0 +1,27 @@
+[
+
+{
+    "id":1,
+    "image":"/assets/image/R2.png",
+    "title":"Ice Coffe Palm Sugar",
+    "price":27000
+},
+{
+    "id":2,
+    "image":"/assets/image/R4.png",
+    "title":"Ice Coffe Palm Sugar",
+    "price":31000
+},
+{
+    "id":3,
+    "image":"/assets/image/R5.png",
+    "title":"Ice Coffe Palm Sugar",
+    "price":29000
+},
+{
+    "id":4,
+    "image":"/assets/image/R7.png",
+    "title":"Ice Coffe Palm Sugar",
+    "price":28000
+}
+]

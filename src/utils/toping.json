@@ -1,0 +1,34 @@
+[
+    {
+        "taste":"Bubble Tea Gelatin",
+        "image_taste":"../assets/image/buble.png"
+    },
+    {
+        "taste":"Manggo",
+        "image_taste":"../assets/image/manggo.png"
+    },
+    {
+        "taste":"Green Coconut",
+        "image_taste":"../assets/image/coconut.png"
+    },
+    {
+        "taste":"Boba Manggo",
+        "image_taste":"../assets/image/bobamaggo.png"
+    },
+    {
+        "taste":"Bill Berry Boba",
+        "image_taste":"../assets/image/BillBerryBoba.png"
+    },
+    {
+        "taste":"Kiwi Popping Pearl",
+        "image_taste":"../assets/image/kiwi.png"
+    },
+    {
+        "taste":"Matcha Cantaloupe",
+        "image_taste":"../assets/image/matcha.png"
+    },
+    {
+        "taste":"Strawberry Popping",
+        "image_taste":"../assets/image/strawbery.png"
+    }
+]
