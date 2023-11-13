@@ -4,11 +4,8 @@ import { Card, Stack, CardBody, Heading, CardFooter, Button ,Image,Text, Box, Fl
 
 const CardPay = () => {
     return(
-        <>
-        <Box
-       
-        >
-
+        
+        <Box>
         <Card
   direction={{ base: 'column', sm: 'row' }}
   overflow='hidden'
@@ -123,7 +120,7 @@ const CardPay = () => {
   
 </Card>
         </Box>
-        </>
+       
     )
 }
 
